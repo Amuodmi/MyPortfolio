@@ -26,7 +26,7 @@ function Home() {
 				</h3>
 				<h3>
 					<a className="navBarText" href="#">
-						Contact
+						About
 					</a>
 				</h3>
 			</div>
