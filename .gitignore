@@ -106,3 +106,5 @@ dist
 # hoping to hide the background video
 *.mp4
 WebsiteVideo.mp4
+
+.DS_Store
